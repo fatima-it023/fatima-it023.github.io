@@ -1,0 +1,12 @@
+CACHE MANIFEST
+# Version 1.0.0
+
+CACHE:
+index.html
+manifest.json
+main.dart.js
+styles.css
+favicon.png
+
+NETWORK:
+*
